@@ -1,0 +1,14 @@
+C:\Users\only1\source\repos\TextGame1\TextGame1\bin\Debug\net10.0\TextGame1.exe
+C:\Users\only1\source\repos\TextGame1\TextGame1\bin\Debug\net10.0\TextGame1.deps.json
+C:\Users\only1\source\repos\TextGame1\TextGame1\bin\Debug\net10.0\TextGame1.runtimeconfig.json
+C:\Users\only1\source\repos\TextGame1\TextGame1\bin\Debug\net10.0\TextGame1.dll
+C:\Users\only1\source\repos\TextGame1\TextGame1\bin\Debug\net10.0\TextGame1.pdb
+C:\Users\only1\source\repos\TextGame1\TextGame1\obj\Debug\net10.0\TextGame1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\only1\source\repos\TextGame1\TextGame1\obj\Debug\net10.0\TextGame1.AssemblyInfoInputs.cache
+C:\Users\only1\source\repos\TextGame1\TextGame1\obj\Debug\net10.0\TextGame1.AssemblyInfo.cs
+C:\Users\only1\source\repos\TextGame1\TextGame1\obj\Debug\net10.0\TextGame1.csproj.CoreCompileInputs.cache
+C:\Users\only1\source\repos\TextGame1\TextGame1\obj\Debug\net10.0\TextGame1.dll
+C:\Users\only1\source\repos\TextGame1\TextGame1\obj\Debug\net10.0\refint\TextGame1.dll
+C:\Users\only1\source\repos\TextGame1\TextGame1\obj\Debug\net10.0\TextGame1.pdb
+C:\Users\only1\source\repos\TextGame1\TextGame1\obj\Debug\net10.0\TextGame1.genruntimeconfig.cache
+C:\Users\only1\source\repos\TextGame1\TextGame1\obj\Debug\net10.0\ref\TextGame1.dll
