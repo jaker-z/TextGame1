@@ -19,10 +19,19 @@ namespace TextGame1
             Thread.Sleep(100);
             Console.Write("Should I call you Jimmy?");
             string response = Console.ReadLine() ?? string.Empty;
-            
+            response = response.Trim();
+
+            CheckResponse(response.ToLower());
+        }
+
+        public static bool CheckResponse(string response)
+        {
+            bool isPositive = false;
+
             if (positiveAnswers.Contains(response))
             {
                 Console.WriteLine("Excellent. That's what we like to hear!");
+                isPositive = true;
             }
             else if (positiveAnswers.Contains(response))
             {
@@ -33,6 +42,11 @@ namespace TextGame1
                 Console.WriteLine("Hmmm. Well that's not the response I expected.");
             }
 
+            return isPositive;
         }
+
+        
+
+        
     }
 }
